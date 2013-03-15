@@ -1,0 +1,15 @@
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.pdb
+E:\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.dll
+E:\新海.NET案例\Libraries\Neocean.DataObjects\bin\Debug\Neocean.DataObjects.pdb
+E:\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.dll
+E:\新海.NET案例\Libraries\Neocean.DataObjects\obj\Debug\Neocean.DataObjects.pdb

@@ -1,0 +1,45 @@
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll.config
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll.config
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.pdb
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll.config
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.Data.pdb
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Domain.pdb
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Events.pdb
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\EntityFramework.xml
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.dll
+E:\新海.NET案例\Libraries\Neocean.Domain.Data\obj\Debug\Neocean.Domain.Data.pdb

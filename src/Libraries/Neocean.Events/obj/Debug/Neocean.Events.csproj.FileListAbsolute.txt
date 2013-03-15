@@ -1,0 +1,53 @@
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Neocean.Events.pdb
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\log4net.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\log4net.xml
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\obj\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\NeoceanFramework\Neocean.Frame\Neocean.Events\obj\Debug\Neocean.Events.pdb
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Neocean.Events.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Neocean.Events.pdb
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Neocean.Infrastructure.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\log4net.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Neocean.Infrastructure.pdb
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\log4net.xml
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.xml
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\obj\Debug\Neocean.Events.dll
+D:\我的文档\GitHub\NecoeanFramework\NeoceanFramework\Neocean.Events\obj\Debug\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.pdb
+E:\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.dll
+E:\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Events.pdb
+E:\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.dll
+E:\新海.NET案例\Libraries\Neocean.Events\bin\Debug\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Libraries\Neocean.Events\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.dll
+E:\新海.NET案例\Libraries\Neocean.Events\obj\Debug\Neocean.Events.pdb

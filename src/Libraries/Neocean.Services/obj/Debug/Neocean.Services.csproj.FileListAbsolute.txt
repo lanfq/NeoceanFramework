@@ -1,0 +1,73 @@
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.dll.config
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Configuration.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Integration.Mvc.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Configuration.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Services.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Configuration.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.Integration.Mvc.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.dll
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.DataObjects.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.Data.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Domain.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Events.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\Autofac.xml
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\AutoMapper.xml
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\EntityFramework.xml
+E:\新海.NET案例\Libraries\Neocean.Services\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\新海.NET案例\Libraries\Neocean.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.dll
+E:\新海.NET案例\Libraries\Neocean.Services\obj\Debug\Neocean.Services.pdb

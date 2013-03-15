@@ -1,0 +1,225 @@
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\Neocean.Web.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\Neocean.Web.pdb
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\EntityFramework.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Helpers.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Mvc.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Providers.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Razor.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\EntityFramework.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Helpers.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Mvc.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.Razor.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\zh-Hans\System.Web.Providers.resources.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\obj\Debug\Neocean.Web.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\obj\Debug\Neocean.Web.pdb
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\Neocean.Admin.dll
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\bin\Neocean.Admin.pdb
+F:\Users\lanfengqi\Desktop\Neocean\Neocean.Web\obj\Debug\Neocean.Web.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Neocean.Web.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Neocean.Web.pdb
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Neocean.Admin.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Helpers.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Mvc.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Razor.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Neocean.Admin.pdb
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\EntityFramework.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Helpers.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Mvc.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.Razor.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\obj\Debug\Neocean.Web.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\obj\Debug\Neocean.Web.dll
+E:\030.项目\030.进行中\Neocean\Presentation\Neocean.Web\obj\Debug\Neocean.Web.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Admin.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Admin.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.csprojResolveAssemblyReference.cache
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Elmah.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Elmah.Mvc.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.pdb
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.Integration.Mvc.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.xml
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.dll
+E:\030.项目\030.进行中\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.Integration.Mvc.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.Integration.Mvc.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.pdb
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.xml
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.csprojResolveAssemblyReference.cache
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.dll
+F:\Users\lanfengqi\Desktop\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Web.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.Integration.Mvc.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.dll
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.DataObjects.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Services.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Microsoft.Web.Infrastructure.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Helpers.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Mvc.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.Razor.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Deployment.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\System.Web.WebPages.Razor.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Events.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Neocean.Domain.Data.pdb
+E:\新海.NET案例\Presentation\Neocean.Web\bin\AutoMapper.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\Autofac.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\EntityFramework.xml
+E:\新海.NET案例\Presentation\Neocean.Web\bin\zh-Hans\EntityFramework.resources.dll
+E:\新海.NET案例\Presentation\Neocean.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.dll
+E:\新海.NET案例\Presentation\Neocean.Web\obj\Debug\Neocean.Web.pdb

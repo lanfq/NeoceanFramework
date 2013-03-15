@@ -1,0 +1,28 @@
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.dll
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.pdb
+E:\030.项目\030.进行中\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.dll
+C:\Documents and Settings\Administrator\桌面\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.dll
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Neocean.Infrastructure.pdb
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.dll
+E:\新海.NET案例\Libraries\Neocean.Infrastructure\obj\Debug\Neocean.Infrastructure.pdb
